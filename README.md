@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+## My New Project: Dynamic 🦠🦠 COVID-19 (Corona) 🦠🦠 World Map
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### I am excited to announce! Using modern technologies such as React and Redux, I developed an application that displays live COVID-19 cases on a dynamic world map. 🌐📊
 
-## Available Scripts
+#### Main libraries and tools I used in this project:
 
-In the project directory, you can run:
+- react-router-dom
 
-### `npm start`
+- 🌟 react-icons
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🌬️tailwind
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 🗺️ react-simple-maps
 
-### `npm test`
+- 🛠️ @reduxjs/toolkit & react-redux
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- @testing-library/user-event@14.0 & react-testing-library
 
-### `npm run build`
+- ⚙️ axios@^0.27.2
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- ✔️ gesture
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The application instantly visualizes COVID-19 cases around the world with a user-friendly interface, allowing you to easily access current data. 📈🌐
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+You can comment or contact me to get more information about my project and review the details. 🚀
 
-### `npm run eject`
+hashtag#React hashtag#Redux hashtag#TailwindCSS hashtag#COVID19 hashtag#Corona hashtag#WorldMap hashtag#WebDevelopment hashtag#Programming hashtag#Gesture hashtag#Axios hashtag#ReactSimpleMaps hashtag#Frontend
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img src="/Covid-19_Map.gif">
